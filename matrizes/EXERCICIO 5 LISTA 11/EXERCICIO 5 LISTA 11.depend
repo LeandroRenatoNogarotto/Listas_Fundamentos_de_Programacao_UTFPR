@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652658184 source:c:\users\leandro\desktop\listas c fp\lista 11\exercicio 5 lista 11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
